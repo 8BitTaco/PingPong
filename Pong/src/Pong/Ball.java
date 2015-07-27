@@ -5,7 +5,7 @@ import java.awt.Graphics;
 import java.util.Random;
 /**
  *
- * @author Max
+ * @author 8BitTaco
  */
 public class Ball {
 
